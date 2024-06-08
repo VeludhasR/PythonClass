@@ -22,6 +22,3 @@ data.remove(60)
 
 print("After removing data")
 print(data)
-
-
-
