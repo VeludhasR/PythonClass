@@ -1,6 +1,6 @@
 #sort 
 '''
-name =["Justin" , "Dan May"   , "Abi" , "Brilson" , "Sarvesh"  , "Rahul" , "Ganesh" ]
+name = ["Justin" , "Dan May"   , "Abi" , "Brilson" , "Sarvesh"  , "Rahul" , "Ganesh" ]
 
 name.sort()
 

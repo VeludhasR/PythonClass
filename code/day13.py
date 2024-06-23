@@ -17,6 +17,6 @@ a = ["Sarvesh" , "Justin" , "Rahul" , "Jebin" , "Jack"]
 print(a)
 
 #index 
-print(a[1])
+print(a[2])
 
 

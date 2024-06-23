@@ -18,7 +18,7 @@ data = [50 , 60 ,82 , 23 , 40 , 22 , 54 ]
 print("Before removing data")
 print(data)
 
-data.remove(60)
+data.remove(22)
 
 print("After removing data")
 print(data)
